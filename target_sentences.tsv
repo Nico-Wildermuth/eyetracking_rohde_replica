@@ -1,0 +1,144 @@
+1	A	Anna schimpfte mit der Köchin der Reichen, die Essen verschwendete.	Wurde Essen verschwendet?
+1	B	Anna schimpfte mit der Köchin der Reichen, die Essen verschwendeten.	War Anna glücklich?
+1	C	Anna lernte mit der Köchin der Reichen, die Essen verschwendete.	Wurde kein Essen verschwendet?
+1	D	Anna lernte mit der Köchin der Reichen, die Essen verschwendeten.	War der Koch eine Frau?
+2	A	Jonas bejubelte die Lehrerin der Zweitklässler, die die Klügste der Schule war.	Wurde die Lehrerin bejubelt?
+2	B	Jonas bejubelte die Lehrerin der Zweitklässler, die die Klügste der Schule waren.	Waren die Zweitklässler die Klügsten?
+2	C	Jonas lebte neben der Lehrerin der Zweitklässler, die die Klügste der Schule war.	War Jonas der Nachbar der Lehrerin?
+2	D	Jonas lebte neben der Lehrerin der Zweitklässler, die die Klügste der Schule waren.	Gab es Drittklässler?
+3	A	Annabelle applaudierte der Aushilfe der Chefs, die zu spät kam.	Kam jemand zu spät?
+3	B	Annabelle applaudierte der Aushilfe der Chefs, die zu spät kamen.	Hat Annabelle den Chefs applaudiert?
+3	C	Annabelle scherzte mit der Aushilfe der Chefs, die zu spät kam.	War die Aushilfe pünktlich?
+3	D	Annabelle scherzte mit der Aushilfe der Chefs, die zu spät kamen.	Scherzte Annabelle mit der Aushilfe?
+4	A	Angela korrigierte die Sekretärin der Anwälte, die einen Fehler machte.	Wurde ein Fehler gemacht?
+4	B	Angela korrigierte die Sekretärin der Anwälte, die einen Fehler machten.	Korrigierte Angela die Anwälte?
+4	C	Angela tratschte mit der Sekretärin der Anwälte, die einen Fehler machte.	Wurde kein Fehler gemacht?
+4	D	Angela tratschte mit der Sekretärin der Anwälte, die einen Fehler machten.	Hat Angela mit jemanden getratscht?
+5	A	Bernd tröstete die Anführerin der Aktivisten, die vom Gerichtsurteil enttäuscht war.	Hatte jemand den Namen Bernd?
+5	B	Bernd tröstete die Anführerin der Aktivisten, die vom Gerichtsurteil enttäuscht waren.	Gab es ein Gerichtsurteil?
+5	C	Bernd grüßte die Anführerin der Aktivisten, die vom Gerichtsurteil enttäuscht war.	Wurde jemand begrüßt?
+5	D	Bernd grüßte die Anführerin der Aktivisten, die vom Gerichtsurteil enttäuscht waren.	War jeder zufrieden mit dem Gerichtsurteil?
+6	A	Laura beneidet die Managerin der Kassierer, die eine Gehaltserhöhung bekam.	Gab es eine Gehaltserhöhung?
+6	B	Laura beneidet die Managerin der Kassierer, die eine Gehaltserhöhung bekamen.	Gab es mehrere Manager?
+6	C	Laura kennt die Managerin der Kassierer, die eine Gehaltserhöhung bekam.	Sind Löhne gleichgeblieben?
+6	D	Laura kennt die Managerin der Kassierer, die eine Gehaltserhöhung bekamen.	Kennt Laura die Managerin?
+7	A	Sascha wertschätzte die Tochter der Vermieter, die viel Geld spendete.	Verachtet Sascha die Tochter?
+7	B	Sascha wertschätzte die Tochter der Vermieter, die viel Geld spendeten.	Spendete jemand Geld?
+7	C	Sascha erkannte die Tochter der Vermieter, die viel Geld spendete.	Hat Sascha jemanden erkannt?
+7	D	Sascha erkannte die Tochter der Vermieter, die viel Geld spendeten.	Wurde kein Geld gespendet?
+8	A	Peter fürchtet die Tante der Kleinkinder, die oft Leute anschreit.	Schreit jemand Leute an?
+8	B	Peter fürchtet die Tante der Kleinkinder, die oft Leute anschreien.	Fürchtet Peter einen Onkel?
+8	C	Peter läuft mit der Tante der Kleinkinder, die oft Leute anschreit.	Werden Leute selten angeschrien?
+8	D	Peter läuft mit der Tante der Kleinkinder, die oft Leute anschreien.	Läuft Peter mit der Tante?
+9	A	Adam bemerkte die Repräsentantin der Arbeiter, die Sicherheitskleidung trug.	Wurde die Repräsentantin übersehen?
+9	B	Adam bemerkte die Repräsentantin der Arbeiter, die Sicherheitskleidung trugen.	Wurde Sicherheitskleidung getragen?
+9	C	Adam ähnelte der Repräsentantin der Arbeiter, die Sicherheitskleidung trug.	Ähnelte Peter jemanden?
+9	D	Adam ähnelte der Repräsentantin der Arbeiter, die Sicherheitskleidung trugen.	Trugen die Arbeiter normale Kleidung?
+10	A	Tina lobte die Gärtner der Millionärin, die eine Sprinkleranlage installierten.	Wurde etwas installiert?
+10	B	Tina lobte die Gärtner der Millionärin, die eine Sprinkleranlage installierte.	Gab es nur einen Gärtner?
+10	C	Tina traf die Gärtner der Millionärin, die eine Sprinkleranlage installierten.	Wurde nichts installiert?
+10	D	Tina traf die Gärtner der Millionärin, die eine Sprinkleranlage installierte.	Hat Tina jemanden getroffen?
+11	A	Julian hasst die Cousins der Buchhalterin, die schlechte Witze erzählen.	Mag Julian die Cousins?
+11	B	Julian hasst die Cousins der Buchhalterin, die schlechte Witze erzählt.	Erzählt jemand schlechte Witze?
+11	C	Julian fährt mit den Cousins der Buchhalterin, die schlechte Witze erzählen.	Hat die Buchhalterin Verwandschaft?
+11	D	Julian fährt mit den Cousins der Buchhalterin, die schlechte Witze erzählt.	Wurden keine Witze erzählt?
+12	A	Verena beschuldigte die Nichten der Floristin, die teure Tulpen ruinierten.	Wurde etwas ruiniert?
+12	B	Verena beschuldigte die Nichten der Floristin, die teure Tulpen ruinierte.	Hatte die Floristin Neffen?
+12	C	Verena wartete mit den Nichten der Floristin, die teure Tulpen ruinierten.	Sind alle Tulpen heil geblieben?
+12	D	Verena wartete mit den Nichten der Floristin, die teure Tulpen ruinierte.	Wartete Verena mit jemanden?
+13	A	Jens half den Brüdern der Athletin, die die Klausur bestanden.	Half Jens seinen Brüdern?
+13	B	Jens half den Brüdern der Athletin, die die Klausur bestand.	Wurde eine Klausur bestanden?
+13	C	Jens traf die Brüder der Athletin, die die Klausur bestanden.	Hatte die Athletin Brüder?
+13	D	Jens traf die Brüder der Athletin, die die Klausur bestand.	Ist jemand durch die Klausur gefallen?
+14	A	Melissa verabscheut die Kinder der Musikerin, die arrogant sind.	Sind die Kinder arrogant?
+14	B	Melissa verabscheut die Kinder der Musikerin, die arrogant ist.	Mag Melissa jemanden?
+14	C	Melissa babysittet die Kinder der Musikerin, die arrogant sind.	Sind die Kinder bescheiden?
+14	D	Melissa babysittet die Kinder der Musikerin, die arrogant ist.	Babysittet Melissa jemanden?
+15	A	Frank dankte den Dienern der Dikatorin, die die Armen unterstützten.	War Frank undankbar?
+15	B	Frank dankte den Dienern der Dikatorin, die die Armen unterstützte.	Wurden die Armen unterstützt?
+15	C	Frank redete mit den Dienern der Diktatorin, die die Armen unterstützten.	Gab es mehrere Diener?
+15	D	Frank redete mit den Dienern der Diktatorin, die die Armen unterstützte.	Wurden die Armen sich selbst überlassen?
+16	A	Teresa gratulierte den Bodyguards der Schauspielerin, die einen Paparazzi hassten.	Gab es einen Paparazzi?
+16	B	Teresa gratulierte den Bodyguards der Schauspielerin, die einen Paparazzi hasste.	Gab es mehrere Schauspielerinnen?
+16	C	Teresa plauderte mit den Bodyguards der Schauspielerin, die einen Paparazzi hassten.	Wurde der Paparazzi gemocht?
+16	D	Teresa plauderte mit den Bodyguards der Schauspielerin, die einen Paparazzi hasste.	Hat Teresa mit jemanden geplaudert?
+17	A	Kevin verspottete die Fans der Sängerin, die von der Bühne sprangen.	Gab es mehrere Sängerinnen?
+17	B	Kevin verspottete die Fans der Sängerin, die von der Bühne sprang.	Ist jemand von der Bühne gesprungen?
+17	C	Kevin zählte die Fans der Sängerin, die von der Bühne sprangen.	Hat Kevin die Fans gezählt?
+17	D	Kevin zählte die Fans der Sängerin, die von der Bühne sprang.	Blieb jeder auf der Bühne?
+18	A	Judith begleitete die Patientin der Schwestern, die krank sind.	War die Patientin alleine?
+18	B	Judith begleitete die Patientin der Schwestern, die krank ist.	Sind alle gesund?
+18	C	Judith informierte die Patientin der Schwestern, die krank sind.	Gab es nur eine Schwester?
+18	D	Judith informierte die Patientin der Schwestern, die krank ist.	Ist jemand krank?
+19	A	Clara verachtete die Betreuer der Seniorin, die sehr rücksichtslos arbeiten.	Mag Clara die Betreuer?
+19	B	Clara verachtete die Betreuer der Seniorin, die sehr rücksichtslos arbeitet.	Arbeitet jemand rücksichtslos?
+19	C	Clara lehrte die Betreuer der Seniorin, die sehr rücksichtslos arbeiten.	Belehrt Clara jemanden?
+19	D	Clara lehrte die Betreuer der Seniorin, die sehr rücksichtslos arbeitet.	Arbeitet jeder gewissenhaft?
+20	A	Max verehrt die Beraterin der Unternehmer, die für ihre Intelligenz bekannt sind.	Verehrt Max jemanden?
+20	B	Max verehrt die Beraterin der Unternehmer, die für ihre Intelligenz bekannt ist.	Ist die Beraterin für ihre Dummheit bekannt?
+20	C	Max ermahnte die Beraterin der Unternehmer, die für ihre Intelligenz bekannt sind.	Gab es mehrere Beraterinnen?
+20	D	Max ermahnte die Beraterin der Unternehmer, die für ihre Intelligenz bekannt ist.	Ist die Beraterin bekannt?
+21	A	Lukas beriet die Professoren der Studentin, die eine Thesis schreiben.	Gibt es nur einen Professor?
+21	B	Lukas beriet die Professoren der Studentin, die eine Thesis schreibt.	Wird etwas geschrieben?
+21	C	Lukas motivierte die Professoren der Studentin, die eine Thesis schreiben.	Wird jemand motiviert?
+21	D	Lukas motivierte die Professoren der Studentin, die eine Thesis schreibt.	Wird eine Thesis gelesen?
+22	A	Sophie vertrieb die Pressesprecherin der Tierschützer, die eine Demonstration planen.	Duldet Sophie die Pressesprecherin?
+22	B	Sophie vertrieb die Pressesprecherin der Tierschützer, die eine Demonstration plant.	Wurde die Demonstration bereits durchgeführt?
+22	C	Sophie betreute die Pressesprecherin der Tierschützer, die eine Demonstration planen.	Betreut Lukas die Pressesprecherin?
+22	D	Sophie betreute die Pressesprecherin der Tierschützer, die eine Demonstration plant.	Wird eine Demonstration geplant?
+23	A	Paul glaubte der Ausbilderin der Handwerker, die zu einer Baustelle fahren.	Misstraut Paul der Ausbilderin?
+23	B	Paul glaubte der Ausbilderin der Handwerker, die zu einer Baustelle fährt.	Gibt es eine Baustelle?
+23	C	Paul besuchte die Ausbilderin der Handwerker, die zu einer Baustelle fahren.	Gibt es mehrere Handwerker?
+23	D	Paul besuchte die Ausbilderin der Handwerker, die zu einer Baustelle fährt.	Ist die Ausilderin bei der Baustelle?
+24	A	Lisa segnete die Mitarbeiter der Bäckerin, die für ihre Brezeln bekannt sind.	Segnet Lisa jemanden?
+24	B	Lisa segnete die Mitarbeiter der Bäckerin, die für ihre Brezeln bekannt sind.	Sind die Mitarbeiter für ihre Brote bekannt?
+24	C	Lisa befragte die Mitarbeiter der Bäckerin, die für ihre Brezeln bekannt sind.	Segnet Lisa jemanden?
+24	D	Lisa befragte die Mitarbeiter der Bäckerin, die für ihre Brezeln bekannt sind.	Gibt es bekannte Brezeln?
+25	A	Tom trug die Hebamme der Eltern, die sich um das Kind kümmern.	Trug Tom die Eltern?
+25	B	Tom trug die Hebamme der Eltern, die sich um das Kind kümmert.	Wird sich um das Kind gekümmert?
+25	C	Tom verabschiedete die Hebamme der Eltern, die sich um das Kind kümmern.	Ist die Hebamme gegangen?
+25	D	Tom verabschiedete die Hebamme der Eltern, die sich um das Kind kümmert.	Wird das Kind vernachlässigt?
+26	A	Julia warnte die Musiker der Dirigentin, die ein wichtiges Konzert haben.	Gibt es mehrere Musiker?
+26	B	Julia warnte die Musiker der Dirigentin, die ein wichtiges Konzert hat.	Ist das Konzert unwichtig?
+26	C	Julia half den Musikern der Dirigentin, die ein wichtiges Konzert haben.	Gibt es mehrere Dirigenten?
+26	D	Julia half den Musikern der Dirigentin, die ein wichtiges Konzert hat.	Ist das Konzert wichtig?
+27	A	Hannah empfahl die Autoren der Redakteurin, die ein gutes Buch veröffentlichten.	Wurden die Autoren empfohlen?
+27	B	Hannah empfahl die Autoren der Redakteurin, die ein gutes Buch veröffentlichte.	Ist das Buch schlecht?
+27	C	Hannah lobte die Autoren der Redakteurin, die ein gutes Buch veröffentlichten.	Gab es nur einen Autor?
+27	D	Hannah lobte die Autoren der Redakteurin, die ein gutes Buch veröffentlichte.	War das Buch gut?
+28	A	Leon verdammte die Assistenten der Chemikerin, die das Labor zerstörten.	Hatte die Chemikerin mehrere Assistenten?
+28	B	Leon verdammte die Assistenten der Chemikerin, die das Labor zerstörte.	Wurde das Labor zerstört?
+28	C	Leon begrüßte die Assistenten der Chemikerin, die das Labor zerstörten.	Wurden die Assistenten begrüßt?
+28	D	Leon begrüßte die Assistenten der Chemikerin, die das Labor zerstörte.	Ist das Labor unversehrt?
+29	A	Nina beglückwünschte die Notarin der Erben, die das Testament vorlesen.	Wurde die Notarin beglückwünscht?
+29	B	Nina beglückwünschte die Notarin der Erben, die das Testament vorliest.	Wurde eine Rede vorgelesen?
+29	C	Nina begleitete die Notarin der Erben, die das Testament vorlesen.	Wurden die Erben begleitet?
+29	D	Nina begleitete die Notarin der Erben, die das Testament vorliest.	Wurde ein Testament vorgelesen?
+30	A	Kai kritisierte die Steuerberater der Politikerin, die eine Steuerhinterziehung vorschlagen.	Befürwortete Kai die Steuerberater?
+30	B	Kai kritisierte die Steuerberater der Politikerin, die eine Steuerhinterziehung vorschlägt.	Wurde eine Steuerhinterziehung vorgeschlagen?
+30	C	Kai warnte die Steuerberater der Politikerin, die eine Steuerhinterziehung vorschlagen.	Wurde jemand gewarnt?
+30	D	Kai warnte die Steuerberater der Politikerin, die eine Steuerhinterziehung vorschlägt.	Wurde etwas Legales vorgeschlagen?
+31	A	Mia beanstandete die Psychologin der Soldaten, die viel Kriegserfahrung hatten.	Gab es mehrere Soldaten?
+31	B	Mia beanstandete die Psychologin der Soldaten, die viel Kriegserfahrung hat.	Hatte die Psychologin keine Kriegserfahrung?
+31	C	Mia beauftragte die Psychologin der Soldaten, die viel Kriegserfahrung hatten.	Hat die Psychologin jemanden beauftragt?
+31	D	Mia beauftragte die Psychologin der Soldaten, die viel Kriegserfahrung hat.	Hat jemand Kriegserfahrung?
+32	A	Jan verhöhnte die Tierpfleger der Zoodirektorin, die ein neues Gehege bauen.	Findet Jan die Tierpfleger gut?
+32	B	Jan verhöhnte die Tierpfleger der Zoodirektorin, die ein neues Gehege baut.	Wird ein Gehege gebaut?
+32	C	Jan verabschiedete die Tierpfleger der Zoodirektorin, die ein neues Gehege bauen.	Sind die Tierpfleger gegangen?
+32	D	Jan verabschiedete die Tierpfleger der Zoodirektorin, die ein neues Gehege baut.	Wird ein Gehege abgerissen?
+33	A	Lena misstraute der Dolmetscherin der Abgeordneten, die eine lange Rede hielten.	Misstraut Lena jemanden?
+33	B	Lena misstraute die Dolmetscherin der Abgeordneten, die eine lange Rede hielt.	War die Rede kurz?
+33	C	Lena assistierte der Dolmetscherin der Abgeordneten, die eine lange Rede hielten.	Gab es mehrere Dolmetscher?
+33	D	Lena assistierte der Dolmetscherin der Abgeordneten, die eine lange Rede hielt.	War die Rede lang?
+34	A	Ben ermutigte die Buchhalter der Autohändlerin, die einen Rekordgewinn verzeichneten.	Entmutigte Ben die Buchhalter?
+34	B	Ben ermutigte die Buchhalter der Autohändlerin, die einen Rekordgewinn verzeichnete.	Gab es einen Rekordgewinn?
+34	C	Ben fragte die Buchhalter der Autohändlerin, die einen Rekordgewinn verzeichneten.	Fragt Ben jemanden?
+34	D	Ben fragte die Buchhalter der Autohändlerin, die einen Rekordgewinn verzeichnete.	Wurde ein Verlust verzeichnet?
+35	A	Emma bevorzugte die Therapeutin der Klienten, die eine neue Praxis besuchten.	Gibt es mehrere Klienten?
+35	B	Emma bevorzugte die Therapeutin der Klienten, die eine neue Praxis besucht.	Ist die Praxis alt?
+35	C	Emma unterrichtete die Therapeutin der Klienten, die eine neue Praxis besuchten.	Gibt es mehrere Therapeutinnen?
+35	D	Emma unterrichtete die Therapeutin der Klienten, die eine neue Praxis besucht.	Ist die Praxis neu?
+36	A	Tim befreite die Architekten der Bauunternehmerin, die einen großen Wolkenkratzer planen.	Sind die Architekten gefangen?
+36	B	Tim befreite die Architekten der Bauunternehmerin, die einen großen Wolkenkratzer plant.	Ist ein Wolkenkratzer geplant?
+36	C	Tim trainierte die Architekten der Bauunternehmerin, die einen großen Wolkenkratzer planen.	Wurden die Architekten trainiert?
+36	D	Tim trainierte die Architekten der Bauunternehmerin, die einen großen Wolkenkratzer plant.	Wird ein kleines Haus geplant?
